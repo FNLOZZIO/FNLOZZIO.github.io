@@ -5,6 +5,13 @@
 - Own the public-only static site for legal notices and disclosures.
 - Keep the repository safe for public publication.
 
+## Workspace Navigation
+
+This is a `lean` public-minimal repository. For local page/content work, use the
+read order below. For zero-context workspace discovery or cross-repo questions,
+start from the workspace-root `WORKSPACE.md`, workspace-root `AGENTS.md`, and
+governed `workspacectl.py` routing before applying this repo-local policy.
+
 ## Deterministic Read Order
 
 1. `README.md`
